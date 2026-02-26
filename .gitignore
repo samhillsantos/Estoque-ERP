@@ -1,0 +1,9 @@
+docs_privado/*
+private_docs/*
+
+!docs_privado/.gitkeep
+!private_docs/.gitkeep
+
+Thumbs.db
+.DS_Store
+.directory
