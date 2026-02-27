@@ -4,6 +4,10 @@ private_docs/*
 !docs_privado/.gitkeep
 !private_docs/.gitkeep
 
+*.class
+out/
+bin/
+
 Thumbs.db
 .DS_Store
 .directory
